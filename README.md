@@ -1,4 +1,4 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+l<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Lab | Web Scraping
 
